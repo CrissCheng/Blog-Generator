@@ -1,0 +1,1 @@
+A blog post generator coded with React & Redux. 
